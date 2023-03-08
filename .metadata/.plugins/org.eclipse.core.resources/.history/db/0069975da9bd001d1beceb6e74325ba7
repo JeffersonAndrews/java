@@ -1,0 +1,12 @@
+package texto;
+
+public class prints {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Olá, Mundo pela primeira vez");
+		System.out.println("Testando meu github para ver se esta funcionando corretament");
+
+	}
+
+}
